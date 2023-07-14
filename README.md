@@ -11,15 +11,24 @@
 
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ttrunghieu97&show_icons=true&theme=darcula&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ttrunghieu97&layout=donut&show_icons=true&theme=darcula&hide_border=true&hide=issues,contribs&reppo=answering_a_phone_call_sub_1">
+  
 <br>
   <br>
 
 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ttrunghieu97&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-stats.vercel.app/api?username=ttrunghieu97&show_icons=true&theme=darcula&bg_color=00000000&hide_border=true">
   <br>
   <br>
+
+<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=ttrunghieu97&show_icon=true">
+
+
   
+<br>
+  <br>
+
   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=C%2B%2B&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
