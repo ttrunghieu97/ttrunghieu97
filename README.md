@@ -19,13 +19,6 @@
 
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=ttrunghieu97&theme=darcula&hide_border=true&background=FFFFFF00">
   <img src ="https://github-readme-stats.vercel.app/api?username=ttrunghieu97&show_icons=true&theme=darcula&bg_color=00000000&hide_border=true">
-  <br>
-  <br>
-
-<img src ="https://github-readme-stats.vercel.app/api/wakatime?username=ttrunghieu97&show_icon=true">
-
-
-  
 <br>
   <br>
 
